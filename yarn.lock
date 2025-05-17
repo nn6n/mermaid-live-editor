@@ -498,10 +498,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@mermaid-js/layout-elk@^0.1.4":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@mermaid-js/layout-elk/-/layout-elk-0.1.5.tgz#331d0b302f61d25afc0ce1510f5837c7850f2740"
-  integrity sha512-6ML4iWdVdyIkSW47KiID9runHzaomLxdMfNo9U60LJvfcQkB/FAjg0Vjc4AZEQnnBq7ibAoAknAWlT1XetwXSg==
+"@mermaid-js/layout-elk@^0.1.7":
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/@mermaid-js/layout-elk/-/layout-elk-0.1.7.tgz#49ff429ee740e28b43f623906a4453a36a84c576"
+  integrity sha512-G3AJ2jMaCAqky2CT3z/sf3pK5UuS3tne98GsXDl3PkKByCmPmOYmJPf+6oX5PUlV3HNWWHuSgtZ9NU/CZDSuHQ==
   dependencies:
     d3 "^7.9.0"
     elkjs "^0.9.3"

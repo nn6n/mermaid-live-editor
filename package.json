@@ -72,7 +72,7 @@
     "vitest-dom": "^0.1.1"
   },
   "dependencies": {
-    "@mermaid-js/layout-elk": "^0.1.4",
+    "@mermaid-js/layout-elk": "^0.1.7",
     "@mermaid-js/mermaid-zenuml": "^0.2.0",
     "daisyui": "2.52.0",
     "dayjs": "^1.11.7",

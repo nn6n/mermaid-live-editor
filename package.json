@@ -74,7 +74,7 @@
   "dependencies": {
     "@mermaid-js/layout-elk": "^0.1.4",
     "@mermaid-js/mermaid-zenuml": "^0.2.0",
-    "daisyui": "2.52.0",
+    "daisyui": "4.0.0",
     "dayjs": "^1.11.7",
     "dompurify": "^3.1.6",
     "js-base64": "3.7.7",
